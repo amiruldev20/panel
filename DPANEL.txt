@@ -1,0 +1,3 @@
+-=[ DPANEL • PTERODACTYL ]=-
+OWNER: Amirul Dev
+ADMIN: Aniq
